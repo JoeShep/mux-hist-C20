@@ -1,0 +1,49 @@
+{
+  "songs": {
+    "song1": {
+      "title": "The Couch",
+      "artist": "The Crashers",
+      "album": "Can I Stay Here?"
+    },
+    "song2": {
+      "title": "Don't Even",
+      "artist": "Talk to The Hand",
+      "album": "I Can't Right Now"
+    },
+    "song3": {
+      "title": "Bump the Jump",
+      "artist": "The Count Chocula Orchestra",
+      "album": "Boom Boom Smash"
+    },
+    "song4": {
+      "title": "The Walk",
+      "artist": "Mayer Hawthorne",
+      "album": "How Do You Do"
+    },
+    "song5": {
+      "title": "Monkey Biz",
+      "artist": "The Coconuts",
+      "album": "My My My"
+    },
+    "song6": {
+      "title": "Howdy Doodie",
+      "artist": "My Mom",
+      "album": "It's songs n Stuff"
+    },
+    "song7": {
+      "title": "Hippy Hippy Shake",
+      "artist": "The Egg Beaters",
+      "album": "Shake It Don't Break It"
+    },
+    "song8": {
+      "title": "The Hokey Pokie",
+      "artist": "Barney and Friends",
+      "album": "Drive Yer Parents Nuts"
+    },
+    "song9": {
+      "title": "What's Up?",
+      "artist": "The Downers",
+      "album": "Emotional Roller Coaster"
+    }
+  }
+}
